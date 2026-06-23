@@ -1,3 +1,6 @@
+"engines":{
+  "nodes": "20.x"
+}
 {
   "name": "my-app",
   "private": true,
